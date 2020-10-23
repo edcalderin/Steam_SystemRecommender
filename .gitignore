@@ -1,3 +1,4 @@
 steam_games.json.gz
 steam_reviews.json.gz
-data_processed/
+data_processed_games/
+data_processed_utilities/
